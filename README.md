@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nathanjoseph20
-- 👀 I’m interested in Front End Web Development
+- 👀 I’m interested in Frontend Web Development
 - 🌱 I’m currently learning HTML, HTML5, CSS, and JavaScript
 - 💞️ I’m looking to collaborate on coding projects
 - 📫 How to reach me: nathanadcock96@gmail.com
